@@ -1,2 +1,2 @@
-# AT-BASIC
-BASIC for Atmel AVR boards (mainly ATMega boards) with REPL
+# CircuitBASIC
+BASIC for Arduinos(and Arduino-compatibles) and AVR boards with REPL
